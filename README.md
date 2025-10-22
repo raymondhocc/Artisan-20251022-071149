@@ -1,6 +1,6 @@
 # Artisan Canvas: AI Design Studio
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/Artisan-20251022-071149)
 
 Artisan Canvas: AI Design Studio is a sophisticated web application designed for creating stunning visual content, particularly posters, with the assistance of AI-powered tools. It provides a highly intuitive and visually appealing interface, combining a robust design canvas with an intelligent AI Assistant and a central Media Library. The application's core functionality revolves around allowing users to manipulate design elements (text, shapes, images) on a canvas, with the AI Assistant interpreting natural language commands to perform complex design operations, suggest improvements, and generate content. The application is built on Cloudflare Workers and Durable Objects, ensuring scalability and responsiveness.
 
@@ -102,4 +102,4 @@ The Artisan Canvas application is designed to be deployed on Cloudflare Workers.
     ```
     This command will build your Worker and deploy it to Cloudflare.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/raymondhocc/Artisan-20251022-071149)
