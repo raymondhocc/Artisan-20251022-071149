@@ -1,0 +1,10 @@
+/* Custom styles for react-resizable handles for better visibility */
+.react-resizable-handle {
+  background-color: #ffffff;
+  border: 1px solid #3b82f6;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  z-index: 20;
+}
